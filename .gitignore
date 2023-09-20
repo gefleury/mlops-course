@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Notebooks only shared on Coursera
+C1W3_Data_Labeling_Ungraded_Lab.ipynb
+
